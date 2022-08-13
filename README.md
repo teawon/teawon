@@ -1,3 +1,4 @@
+
 ## Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -15,3 +16,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+[8/13 - gitHub에 최근에 등록한 글 올리기](https://teawon.github.io/blog/blog-2/) 
+[8/12 - 블로그를 시작하며](https://teawon.github.io/blog/init/) 
