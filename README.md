@@ -11,8 +11,6 @@
 
 ## Git Stats
 ![teawon](https://github-readme-stats.vercel.app/api?username=teawon&show_icons=true)
-[![teawon](https://github-readme-stats.vercel.app/api/top-langs/?username=teawon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/teawon)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
