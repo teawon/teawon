@@ -13,7 +13,7 @@
 ![teawon](https://github-readme-stats.vercel.app/api?username=teawon&show_icons=true)
 
 ## Latest Blog Post
+ - [10/8 - BufferedReader vs Scanner](https://teawon.github.io/java/bufferedReader/)
+ - [10/8 - 1장 컴퓨터 네트워크와 인터넷(1)](https://teawon.github.io/network/Chapter1-1/)
+ - [10/8 - 1장 컴퓨터 네트워크와 인터넷(2)](https://teawon.github.io/network/Chapter1-2/)
  - [10/7 - 성남시 AI프리인텁십 4기 회고록](https://teawon.github.io/project/mtp/)
- - [8/23 - Fish-it 프로젝트 회고록](https://teawon.github.io/project/fish-it/)
- - [8/23 - PRP 프로젝트 회고록](https://teawon.github.io/project/prp/)
- - [8/19 - Zustand를 통한 React 상태관리](https://teawon.github.io/react/zustand/)
