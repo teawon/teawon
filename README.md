@@ -13,7 +13,7 @@
 ![teawon](https://github-readme-stats.vercel.app/api?username=teawon&show_icons=true)
 
 ## Latest Blog Post
- - [10/8 - BufferedReader vs Scanner](https://teawon.github.io/java/bufferedReader/)
- - [10/8 - 1장 컴퓨터 네트워크와 인터넷(1)](https://teawon.github.io/network/Chapter1-1/)
- - [10/8 - 1장 컴퓨터 네트워크와 인터넷(2)](https://teawon.github.io/network/Chapter1-2/)
- - [10/7 - 성남시 AI프리인텁십 4기 회고록](https://teawon.github.io/project/mtp/)
+ - [10/13 - 코틀린 문법(1)](https://teawon.github.io/kotlin/kotlin-study-1/)
+ - [10/12 - 코틀린이란?](https://teawon.github.io/kotlin/kotlin-init/)
+ - [10/9 - 1장 컴퓨터 네트워크와 인터넷(3)](https://teawon.github.io/network/Chapter1-3/)
+ - [10/9 - 3장 트랜스포트 계층(1)](https://teawon.github.io/network/Chapter3-1/)
