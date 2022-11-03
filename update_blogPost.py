@@ -28,6 +28,7 @@ preREADME = """
 
 ## Git Stats
 ![teawon](https://github-readme-stats.vercel.app/api?username=teawon&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
 """
