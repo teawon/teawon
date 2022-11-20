@@ -30,7 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [11/17 - 토이프로젝트(최저가 쇼핑몰 리스트) - 2](https://teawon.github.io/kotlin/toyproject-2/)
+ - [11/12 - 토이프로젝트(최저가 쇼핑몰 리스트) - 1](https://teawon.github.io/kotlin/toyproject-1/)
  - [10/19 - 3장 트랜스포트 계층(3)](https://teawon.github.io/network/Chapter3-3/)
  - [10/14 - 코틀린 문법(2)](https://teawon.github.io/kotlin/kotlin-study-2/)
- - [10/12 - 코틀린 문법(1)](https://teawon.github.io/kotlin/kotlin-study-1/)
- - [10/11 - 코틀린이란?](https://teawon.github.io/kotlin/kotlin-init/)
