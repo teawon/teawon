@@ -30,7 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [4/14 - 함수 vs 클래스 컴포넌트](https://teawon.github.io/react/fuction-vs-class/)
  - [3/28 - 브라우저의 렌더링 과정](https://teawon.github.io/cs/init-browser-render/)
  - [3/24 - CSS-in-JS vs CSS](https://teawon.github.io/react/css-methon/)
  - [3/18 - BEM 방법론 - css이름 짓기](https://teawon.github.io/react/bem-method/)
- - [3/12 - Javascript Grammer](https://teawon.github.io/javascript-grammer/)
