@@ -30,7 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [7/8 - 이미지 확장자와 최적화](https://teawon.github.io/cs/image/)
  - [6/25 - React 테스트 코드 자동화](https://teawon.github.io/react/cicd/)
  - [6/10 - React 테스트 코드](https://teawon.github.io/react/test-1/)
  - [5/20 - react-query를 통한 프로젝트 개선기](https://teawon.github.io/react/react-query/)
- - [5/13 - axios와 fetch](https://teawon.github.io/react/axios-fecth/)
