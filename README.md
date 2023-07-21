@@ -30,7 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [7/19 - 프론트엔드 성능 최적화가이드 -1](https://teawon.github.io/book/perfomence-1/)
  - [7/17 - [프로그래머스] 조이스틱](https://teawon.github.io/programmers/javascript/joystck/)
  - [7/8 - 이미지 확장자와 최적화](https://teawon.github.io/cs/image/)
  - [6/25 - React 테스트 코드 자동화](https://teawon.github.io/react/cicd/)
- - [6/10 - React 테스트 코드](https://teawon.github.io/react/test-1/)
