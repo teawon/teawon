@@ -30,7 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [9/18 - 왜 프론트엔드 공부하세요?](https://teawon.github.io/book/IamNaverFront/)
  - [9/9 - Sentry를 사용한 에러 수집](https://teawon.github.io/react/Sentry/)
  - [9/4 - 프론트엔드 성능 최적화가이드-4](https://teawon.github.io/book/perfomence-4/)
  - [8/31 - 프론트엔드 성능 최적화가이드-3](https://teawon.github.io/book/perfomence-3/)
- - [8/15 - 프론트엔드 성능 최적화가이드-2](https://teawon.github.io/book/perfomence-2/)
