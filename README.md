@@ -45,3 +45,4 @@
  - [10/1 - 사용자 경험을 위한 네트워크 에러 관리 전략](https://teawon.github.io/react/offline-process/)
  - [9/23 - 구름톤 챌린지 후기](https://teawon.github.io/event/goorm/9oormthon-challenge/)
  - [9/18 - 왜 프론트엔드 공부하세요?](https://teawon.github.io/book/IamNaverFront/)
+ - [9/9 - 에러를 놓치지 않는 방법, Sentry 도입 가이드](https://teawon.github.io/react/Sentry/)
