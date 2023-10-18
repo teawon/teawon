@@ -3,7 +3,7 @@ import feedparser
 blog_url = "https://teawon.github.io/feed.xml"
 rss_feed = feedparser.parse(blog_url)
 
-MAX_NUM = 3
+MAX_NUM = 4
 
 latest_posts = ""
 
