@@ -41,8 +41,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [10/29 - SSR의 부상, 현대 웹사이트가 바뀌는 이유](https://teawon.github.io/cs/csr-ssr/)
  - [10/26 - 2023 우테코 프리코스 1주차 후기](https://teawon.github.io/event/2023-wtc-pre-course-1/)
  - [10/9 - Next13, middleware 기반의 페이지 접근제한](https://teawon.github.io/next/auth-router-handle/)
  - [10/1 - 사용자 경험을 위한 네트워크 에러 관리 전략](https://teawon.github.io/react/offline-process/)
  - [9/23 - 구름톤 챌린지 후기](https://teawon.github.io/event/goorm/9oormthon-challenge/)
- - [9/18 - 왜 프론트엔드 공부하세요?](https://teawon.github.io/book/IamNaverFront/)
