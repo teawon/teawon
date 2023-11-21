@@ -41,7 +41,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
- - [11/18 - 초기 로딩속도 개선과 사용자 경험 개선시키기](https://teawon.github.io/next/next-optimization-mindspace/)
+ - [11/18 - 초기 로딩속도 및 사용자 경험 개선시키기](https://teawon.github.io/next/next-optimization-mindspace/)
  - [11/11 - 내 코드가 그렇게 이상한가요?](https://teawon.github.io/book/why-my-code-wrong/)
  - [11/3 - 2023 우테코 프리코스 2주차 후기](https://teawon.github.io/event/2023-wtc-pre-course-2/)
  - [10/29 - SSR의 부상, 현대 웹사이트가 바뀌는 이유](https://teawon.github.io/cs/csr-ssr/)
