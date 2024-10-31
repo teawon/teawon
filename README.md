@@ -41,8 +41,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [10/22 - 지연평가(Lazy Evaluaion)](https://teawon.github.io/cs/lazy-evaluation/)
  - [11/23 - React에서 Next.js로, 마이그레이션 경험기](https://teawon.github.io/next/react-to-next/)
  - [11/22 - 2023 우테코 프리코스 4주차 후기](https://teawon.github.io/event/2023-wtc-pre-course-4/)
  - [11/21 - TOAST UI - 이미지 다중 업로드 구현](https://teawon.github.io/next/toast-ui-editor-image-uplaod/)
  - [11/18 - 초기 로딩속도 및 사용자 경험 개선시키기](https://teawon.github.io/next/next-optimization-mindspace/)
- - [11/11 - 내 코드가 그렇게 이상한가요?](https://teawon.github.io/book/why-my-code-wrong/)
