@@ -41,8 +41,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyou882)](https://solved.ac/hiyou882/)
 
 ## Latest Blog Post
+ - [5/14 - 복잡한 분기처리, 의사결정 테이블 형태로 표현하기](https://teawon.github.io/cs/desision-table/)
  - [3/19 - Observer Pattern 기반의 에러핸들링 로직 구현하기](https://teawon.github.io/react/observer-pattern-middleware/)
  - [3/8 - Nuxt(Legacy) 프로젝트에 React 모듈 연결하기](https://teawon.github.io/react/nuxt-react-pdf-module-integration/)
  - [10/22 - 지연평가(Lazy Evaluaion)](https://teawon.github.io/cs/lazy-evaluation/)
  - [11/23 - React에서 Next.js로, 마이그레이션 경험기](https://teawon.github.io/next/react-to-next/)
- - [11/22 - 2023 우테코 프리코스 4주차 후기](https://teawon.github.io/event/2023-wtc-pre-course-4/)
